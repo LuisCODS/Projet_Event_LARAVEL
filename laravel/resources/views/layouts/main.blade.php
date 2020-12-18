@@ -45,7 +45,7 @@
     <!-- CONTAINER -->
     <div class="container">
         <div class="row">
-            <div class="col s1">
+            <div class="col 12">
                 <!-- Page Content goes here -->
                 @yield('content')        
             </div>
